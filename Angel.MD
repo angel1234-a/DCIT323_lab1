@@ -10,3 +10,4 @@
 - Staged it and committed it 
 - Pushed it back to the repo
 
+- That's all the steps
